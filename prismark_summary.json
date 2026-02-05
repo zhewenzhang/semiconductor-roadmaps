@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-02-04 23:01:00",
+  "prismark_summary": {
+    "status": "No dedicated Prismark files found in semiconductor_roadmaps/",
+    "note": "Prismark data referenced in memory files and competitor analysis"
+  },
+  "referenced_prismark_data": {
+    "location": "Memory files and analysis reports",
+    "data_points": [
+      {
+        "source_date": "Q3 2025",
+        "data_type": "PCB Market Analysis",
+        "value_2024": "$73.6B",
+        "forecast_2029": "$109.2B",
+        "cagr": "8.2%"
+      },
+      {
+        "source_date": "Q3 2025",
+        "data_type": "IC Substrate Market",
+        "value_2024": "$12.6B",
+        "forecast_2029": "$20.1B",
+        "cagr": "9.8%"
+      },
+      {
+        "source_date": "Q3 2025",
+        "data_type": "ABF Substrate Growth",
+        "forecast_cagr": "12.4%",
+        "segment": "Fastest Growing"
+      },
+      {
+        "source_date": "Q3 2025",
+        "data_type": "HDI PCB Growth",
+        "forecast_cagr": "11.2%",
+        "segment": "Second Fastest"
+      },
+      {
+        "source_date": "Q3 2025",
+        "data_type": "China IC Substrate Share",
+        "value": "3.2%",
+        "segment": "Global Market"
+      },
+      {
+        "source_date": "Q3 2025",
+        "data_type": "Top 5 Competitors",
+        "competitors": [
+          {"rank": 1, "company": "欣兴 (Unimicron)", "revenue_q3": "$647M", "yoy": "+10.5%"},
+          {"rank": 2, "company": "三星电机 (SEMCO)", "revenue_q3": "$428M", "yoy": "+3.8%"},
+          {"rank": 3, "company": "揖斐电 (Ibiden)", "revenue_q3": "$388M", "yoy": "+8.6%"},
+          {"rank": 4, "company": "南亚电路 (Nan Ya)", "revenue_q3": "$311M", "yoy": "+28.7%"},
+          {"rank": 5, "company": "景硕 (Kinsus)", "revenue_q3": "$289M", "yoy": "+42.6%"}
+        ]
+      }
+    ]
+  },
+  "prismark_related_files": {
+    "csv": [
+      "/Users/dave/clawd/semiconductor_roadmaps/packaging_substrate_top20.csv"
+    ],
+    "analysis_reports": [
+      "/Users/dave/clawd/reports/a_stock_industry_money_flow_deep_analysis_20260204.html",
+      "/Users/dave/clawd/companies/礼鼎半导体调研报告.md"
+    ]
+  },
+  "market_data_coverage": {
+    "segments_covered": [
+      "ABF Substrate",
+      "BT Substrate", 
+      "HDI PCB",
+      "IC Substrate",
+      "Advanced Packaging"
+    ],
+    "regions_covered": [
+      "Global",
+      "Taiwan",
+      "Korea",
+      "Japan",
+      "China"
+    ]
+  }
+}
